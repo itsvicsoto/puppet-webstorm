@@ -2,7 +2,7 @@
 
 class webstorm::yosemite {
   package { 'WebStorm Yosemite':
-    provider => 'appdmg',
+    provider => 'pkgdmg',
     source   => "https://download.jetbrains.com/webstorm/WebStorm-10.0.4-custom-jdk-bundled.dmg",
   }
 }
