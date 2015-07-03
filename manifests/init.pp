@@ -3,6 +3,6 @@ class webstorm (
 ) {
   package { 'WebStorm':
     provider => 'appdmg',
-    source   => "https://download.jetbrains.com/webstorm/WebStorm-10.0.4-custom-jdk-bundled.dmg"
+    source   => "https://download.jetbrains.com/webstorm/WebStorm-10.0.4xxx-custom-jdk-bundled.dmg"
   }
 }
