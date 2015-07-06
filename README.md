@@ -1,6 +1,6 @@
 # WebStorm
 
-[![Build Status](https://api.travis-ci.org/boxen/puppet-webstorm.png?branch=master)](https://travis-ci.org/boxen/puppet-webstorm) 
+[![Build Status](https://api.travis-ci.org/pongstr/puppet-webstorm.png?branch=master)](https://travis-ci.org/pongstr/puppet-webstorm) 
 
 Install [WebStorm](http://www.jetbrains.com/webstorm/), a Javascript IDE
 
